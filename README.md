@@ -18,32 +18,32 @@ A modern weather app built with HTML, CSS, and JavaScript that fetches real-time
 
 🛠️ Technologies Used
 
-HTML
+1.HTML
 
-CSS
+2.CSS
 
-JavaScript
+3.JavaScript
 
-Weather API
+4.Weather API
 
 🔧 How to Use
 
-Clone the repository
+1.Clone the repository
 
-Open index.html in your browser
+2.Open index.html in your browser
 
-Enter a city name
+3.Enter a city name
 
-View the weather details instantly
+4.View the weather details instantly
 
 📂 Project Structure
 
 weather-app/
 
 │── index.html
-|
+
 │── style.css
-|
+
 │── script.js
-|
+
 │── images/
