@@ -16,7 +16,8 @@ A modern weather app built with HTML, CSS, and JavaScript that fetches real-time
 
 ⚡ Real-time API data
 
-2. Technologies Used
+Technologies Used
+
 HTML
 
 Used to create:
@@ -65,6 +66,7 @@ fetch()
 DOM manipulation
 Async/Await
 Event listeners
+
 4.Weather API
 
 🔧 How to Use
