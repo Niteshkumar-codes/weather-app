@@ -18,7 +18,7 @@ A modern weather app built with HTML, CSS, and JavaScript that fetches real-time
 
 Technologies Used
 
-HTML
+1. HTML
 
 Used to create:
 
@@ -42,7 +42,7 @@ Humidity card
 
 Wind speed card
 
-CSS
+2. CSS
 
 Used for:
 
@@ -68,7 +68,7 @@ Hover effects
 
 Media queries
 
-JavaScript
+3. JavaScript
 
 Handles:
 
