@@ -23,48 +23,71 @@ HTML
 Used to create:
 
 Search box
+
 Button
+
 Weather display section
+
 Icons and labels
 
 Example elements:
 
 Input field
+
 Search button
+
 Temperature text
+
 Humidity card
+
 Wind speed card
+
 CSS
 
 Used for:
 
 Layout design
+
 Colors and gradients
+
 Responsive UI
+
 Animations
+
 Card styling
 
 Common CSS features:
 
 Flexbox
+
 Grid
+
 Box shadows
+
 Hover effects
+
 Media queries
+
 JavaScript
 
 Handles:
 
 API requests
+
 User interactions
+
 Updating UI dynamically
+
 Error handling
 
 JavaScript uses:
 
 fetch()
+
 DOM manipulation
+
 Async/Await
+
 Event listeners
 
 4.Weather API
